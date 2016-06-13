@@ -1,0 +1,1 @@
+Please use testing branch for all new symbols and footprints
